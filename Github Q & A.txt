@@ -1,0 +1,23 @@
+Github Questions
+
+Q1: Your old computer broke but you had checked all your code on github before. Have you then lost information when you look at the code in your new one computer after checking that out again?
+
+A: Nope you saved have them all in Github remote server as they where commit/saved before the old computer crashed!
+
+Q2: If we continue the issue with even github crashing after you succeed download the code to your new computer. What is the opportunity then copy your code to your colleagues if github is down?
+
+A: Once the code has been commit/saved it will not change untill there is an updates when it was last worked on. By coping the files form one computer to another the coding can continue from when it was last opened/worked on.
+
+Q3: If it is possible to copy to the colleagues, then their copies will be the same complete as if they refueled things directly from github?
+
+A: Yes its posible to copy files to and from your colleagues. What ever you you work on and commit/save your team mate/ colleagues can see what updates has been done, as you can leave a comment to the work.
+
+Q4: Why do so many people upload their programs to github?
+
+A: This is great on some many reason. The platform is open source to help other people to work together, lean and share to anyone with the interesting programming?
+
+Q5: Isn't it better to sell the programs and get rich?
+
+A: This platform is great as a open source. When Tom Preston-Werner, Chris Wanstrath, and PJ Hyett met together to work a project, these three friends only intended to just do this as a fun and weekend project.
+They weekend project became they life long project of sharing code which no one was doing or had the ways to do so till Github was born.
+They
